@@ -1,3 +1,3 @@
-<div style="width: 100%">
-    <img src="index.svg" style="width: 60%">
+<div style="width: 70%">
+    <img src="index.svg" style="width: 70%">
 </div>
