@@ -8,6 +8,14 @@
                 padding: 0;
                 box-sizing: border-box;
             }
+            .body{
+                width: 100%;
+                height: 800px;
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+                background: #FFFFFF;
+            }
             .header{
                 min-width: 100%;
                 text-align: center;
@@ -71,28 +79,30 @@
                 }
             }
             </style>
-            <div class="header">
-                <h1>Hello 👋👋, I am Hitarth Ganatra</h1>
-            </div>
-            <div class="container">
-                <div class="data">
-                    <span class="projects">Best Projects so far ....</span>
-                    <div class="projects_images">
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 1" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 2" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 3" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 4" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 5" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 6" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 7" />
-                        <img src="https://dummyimage.com/150x150/000/fff" alt="Project 8" />
+            <div class="body">
+                <div class="header">
+                    <h1>Hello 👋👋, I am Hitarth Ganatra</h1>
+                </div>
+                <div class="container">
+                    <div class="data">
+                        <span class="projects">Best Projects so far ....</span>
+                        <div class="projects_images">
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 1" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 2" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 3" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 4" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 5" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 6" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 7" />
+                            <img src="https://dummyimage.com/150x150/000/fff" alt="Project 8" />
+                        </div>
                     </div>
-                </div>
-                <div class="data">
-                    <span class="expertise">Know my expertise 🎨... </span>
-                </div>
-                <div class="data">
-                    <span class="about_me">Know about me 😋... </span>
+                    <div class="data">
+                        <span class="expertise">Know my expertise 🎨... </span>
+                    </div>
+                    <div class="data">
+                        <span class="about_me">Know about me 😋... </span>
+                    </div>
                 </div>
             </div>
         </div>
