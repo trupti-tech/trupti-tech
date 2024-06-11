@@ -30,7 +30,7 @@
                 white-space: nowrap;
                 animation: 
                     typing 2.5s forwards;
-                font-size: 1.8rem;
+                font-size: 1.2rem;
                 width: 0;
             }
             @keyframes typing {
@@ -47,7 +47,7 @@
                 width: fit-content;
                 display: block;
                 position: relative;
-                font-size: 1.5em;
+                font-size: 1em;
                 font-weight: 600;
                 margin-top: 20px;
             }
