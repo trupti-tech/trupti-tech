@@ -30,13 +30,13 @@
                 white-space: nowrap;
                 animation: 
                     typing 2.5s forwards;
-                font-size: 1.8rem;
+                font-size: 2.5rem;
                 width: 0;
             }
             @keyframes typing {
                 0% { width: 0 }
                 90% { border-right: .15em solid orange }
-                100% { width: 80%; border-right: 0; }
+                100% { width: 60%; border-right: 0; }
             }
             .container{
                 min-width: 100%;
@@ -47,7 +47,7 @@
                 width: fit-content;
                 display: block;
                 position: relative;
-                font-size: 1.5rem;
+                font-size: 2.2rem;
                 font-weight: 600;
                 margin-top: 20px;
             }
