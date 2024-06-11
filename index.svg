@@ -47,7 +47,7 @@
                 width: fit-content;
                 display: block;
                 position: relative;
-                font-size: 12;
+                font-size: 12px;
                 font-weight: 600;
                 margin-top: 20px;
             }
