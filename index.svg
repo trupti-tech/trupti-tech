@@ -29,8 +29,8 @@
                 border-right: .15em solid orange;
                 white-space: nowrap;
                 animation: 
-                    typing 2.5s forwards;
-                font-size: 2.5rem;
+                    typing 2.8s forwards;
+                font-size: rem;
                 width: 0;
             }
             @keyframes typing {
@@ -47,7 +47,7 @@
                 width: fit-content;
                 display: block;
                 position: relative;
-                font-size: 2.2rem;
+                font-size: 2.5rem;
                 font-weight: 600;
                 margin-top: 20px;
             }
